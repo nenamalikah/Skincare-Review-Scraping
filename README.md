@@ -1,4 +1,6 @@
-**Dataset Information**
+# NLP: Ulta Skincare Reviews
+
+**Dataset Information**  
 This dataset was created via Python using the selenium and pandas libraries. The reviews were pulled on March 27, 2023 and were published on Ulta.com for *Dermalogica* products. 
 
 **Sample Use Cases for Dataset**
@@ -21,5 +23,3 @@ This dataset was created via Python using the selenium and pandas libraries. The
 
 **Sources**
 - Data scraped from [Ulta](https://www.ulta.com/shop/skin-care/cleansers/cleansing-exfoliators). 
-- Photo by <a href="https://unsplash.com/@molnj?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jocelyn Morales</a> on <a href="https://unsplash.com/photos/JiqTLjzEH18?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
